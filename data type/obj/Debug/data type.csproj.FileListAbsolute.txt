@@ -1,0 +1,6 @@
+F:\VS project\data type\data type\bin\Debug\data type.exe.config
+F:\VS project\data type\data type\bin\Debug\data type.exe
+F:\VS project\data type\data type\bin\Debug\data type.pdb
+F:\VS project\data type\data type\obj\Debug\data type.csprojResolveAssemblyReference.cache
+F:\VS project\data type\data type\obj\Debug\data type.exe
+F:\VS project\data type\data type\obj\Debug\data type.pdb
