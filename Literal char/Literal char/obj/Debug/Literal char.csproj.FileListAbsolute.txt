@@ -1,0 +1,6 @@
+F:\VS project\Literal char\Literal char\bin\Debug\Literal char.exe.config
+F:\VS project\Literal char\Literal char\bin\Debug\Literal char.exe
+F:\VS project\Literal char\Literal char\bin\Debug\Literal char.pdb
+F:\VS project\Literal char\Literal char\obj\Debug\Literal char.csprojResolveAssemblyReference.cache
+F:\VS project\Literal char\Literal char\obj\Debug\Literal char.exe
+F:\VS project\Literal char\Literal char\obj\Debug\Literal char.pdb
