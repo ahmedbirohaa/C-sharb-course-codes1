@@ -1,0 +1,6 @@
+F:\VS project\string type\string type\bin\Debug\string type.exe.config
+F:\VS project\string type\string type\bin\Debug\string type.exe
+F:\VS project\string type\string type\bin\Debug\string type.pdb
+F:\VS project\string type\string type\obj\Debug\string type.exe
+F:\VS project\string type\string type\obj\Debug\string type.pdb
+F:\VS project\string type\string type\obj\Debug\string type.csprojResolveAssemblyReference.cache
