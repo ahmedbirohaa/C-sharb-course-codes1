@@ -1,0 +1,6 @@
+F:\VS project\Increments - Decrements Operations الزياده والنقصان\Increments - Decrements Operations الزياده والنقصان\bin\Debug\Increments - Decrements Operations الزياده والنقصان.exe.config
+F:\VS project\Increments - Decrements Operations الزياده والنقصان\Increments - Decrements Operations الزياده والنقصان\bin\Debug\Increments - Decrements Operations الزياده والنقصان.exe
+F:\VS project\Increments - Decrements Operations الزياده والنقصان\Increments - Decrements Operations الزياده والنقصان\bin\Debug\Increments - Decrements Operations الزياده والنقصان.pdb
+F:\VS project\Increments - Decrements Operations الزياده والنقصان\Increments - Decrements Operations الزياده والنقصان\obj\Debug\Increments - Decrements Operations الزياده والنقصان.csprojResolveAssemblyReference.cache
+F:\VS project\Increments - Decrements Operations الزياده والنقصان\Increments - Decrements Operations الزياده والنقصان\obj\Debug\Increments - Decrements Operations الزياده والنقصان.exe
+F:\VS project\Increments - Decrements Operations الزياده والنقصان\Increments - Decrements Operations الزياده والنقصان\obj\Debug\Increments - Decrements Operations الزياده والنقصان.pdb
