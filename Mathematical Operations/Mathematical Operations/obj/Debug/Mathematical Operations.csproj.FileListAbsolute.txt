@@ -1,0 +1,6 @@
+F:\VS project\Mathematical Operations\Mathematical Operations\bin\Debug\Mathematical Operations.exe.config
+F:\VS project\Mathematical Operations\Mathematical Operations\bin\Debug\Mathematical Operations.exe
+F:\VS project\Mathematical Operations\Mathematical Operations\bin\Debug\Mathematical Operations.pdb
+F:\VS project\Mathematical Operations\Mathematical Operations\obj\Debug\Mathematical Operations.csprojResolveAssemblyReference.cache
+F:\VS project\Mathematical Operations\Mathematical Operations\obj\Debug\Mathematical Operations.exe
+F:\VS project\Mathematical Operations\Mathematical Operations\obj\Debug\Mathematical Operations.pdb
