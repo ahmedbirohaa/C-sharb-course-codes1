@@ -1,0 +1,6 @@
+F:\VS project\Nested If Else Statement الجمل الشرطية المتداخلة\Nested If Else Statement الجمل الشرطية المتداخلة\bin\Debug\Nested If Else Statement الجمل الشرطية المتداخلة.exe.config
+F:\VS project\Nested If Else Statement الجمل الشرطية المتداخلة\Nested If Else Statement الجمل الشرطية المتداخلة\obj\Debug\Nested If Else Statement الجمل الشرطية المتداخلة.csprojResolveAssemblyReference.cache
+F:\VS project\Nested If Else Statement الجمل الشرطية المتداخلة\Nested If Else Statement الجمل الشرطية المتداخلة\bin\Debug\Nested If Else Statement الجمل الشرطية المتداخلة.exe
+F:\VS project\Nested If Else Statement الجمل الشرطية المتداخلة\Nested If Else Statement الجمل الشرطية المتداخلة\bin\Debug\Nested If Else Statement الجمل الشرطية المتداخلة.pdb
+F:\VS project\Nested If Else Statement الجمل الشرطية المتداخلة\Nested If Else Statement الجمل الشرطية المتداخلة\obj\Debug\Nested If Else Statement الجمل الشرطية المتداخلة.exe
+F:\VS project\Nested If Else Statement الجمل الشرطية المتداخلة\Nested If Else Statement الجمل الشرطية المتداخلة\obj\Debug\Nested If Else Statement الجمل الشرطية المتداخلة.pdb
