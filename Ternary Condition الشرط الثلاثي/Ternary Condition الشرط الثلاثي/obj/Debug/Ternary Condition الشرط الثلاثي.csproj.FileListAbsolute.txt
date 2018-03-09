@@ -1,0 +1,6 @@
+F:\VS project\Ternary Condition الشرط الثلاثي\Ternary Condition الشرط الثلاثي\bin\Debug\Ternary Condition الشرط الثلاثي.exe.config
+F:\VS project\Ternary Condition الشرط الثلاثي\Ternary Condition الشرط الثلاثي\bin\Debug\Ternary Condition الشرط الثلاثي.exe
+F:\VS project\Ternary Condition الشرط الثلاثي\Ternary Condition الشرط الثلاثي\bin\Debug\Ternary Condition الشرط الثلاثي.pdb
+F:\VS project\Ternary Condition الشرط الثلاثي\Ternary Condition الشرط الثلاثي\obj\Debug\Ternary Condition الشرط الثلاثي.csprojResolveAssemblyReference.cache
+F:\VS project\Ternary Condition الشرط الثلاثي\Ternary Condition الشرط الثلاثي\obj\Debug\Ternary Condition الشرط الثلاثي.exe
+F:\VS project\Ternary Condition الشرط الثلاثي\Ternary Condition الشرط الثلاثي\obj\Debug\Ternary Condition الشرط الثلاثي.pdb
