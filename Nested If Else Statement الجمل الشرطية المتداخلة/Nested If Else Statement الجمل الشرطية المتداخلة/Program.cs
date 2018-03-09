@@ -28,7 +28,7 @@ namespace Nested_If_Else_Statement_الجمل_الشرطية_المتداخلة
               else { 
                   Console.WriteLine("Myvar1 not equal 9");
              }
-             */
+             
 
 
             int myvar1 = 10, myvar2 = 2, myvar3 = 8;
@@ -48,7 +48,26 @@ namespace Nested_If_Else_Statement_الجمل_الشرطية_المتداخلة
                 {
                     Console.WriteLine("myvar1 not equal 10");
                 }
-            
+            */
+
+            int myvar1 = 4, myvar2 = 6;
+            if ((myvar1<=3)&&(myvar2>=5))
+            {
+                Console.WriteLine("1");
+            }
+            else if (myvar1<=4 && myvar2>=6)
+            {
+                Console.WriteLine("2");
+            }
+            else if (myvar1==4)
+            {
+                Console.WriteLine("3");
+            }
+            else
+            {
+                Console.WriteLine("0");
+            }
+
             Console.ReadKey();
         }
     }
