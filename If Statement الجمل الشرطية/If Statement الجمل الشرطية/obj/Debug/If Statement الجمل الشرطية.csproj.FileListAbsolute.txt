@@ -1,0 +1,6 @@
+F:\VS project\If Statement الجمل الشرطية\If Statement الجمل الشرطية\bin\Debug\If Statement الجمل الشرطية.exe.config
+F:\VS project\If Statement الجمل الشرطية\If Statement الجمل الشرطية\bin\Debug\If Statement الجمل الشرطية.exe
+F:\VS project\If Statement الجمل الشرطية\If Statement الجمل الشرطية\bin\Debug\If Statement الجمل الشرطية.pdb
+F:\VS project\If Statement الجمل الشرطية\If Statement الجمل الشرطية\obj\Debug\If Statement الجمل الشرطية.csprojResolveAssemblyReference.cache
+F:\VS project\If Statement الجمل الشرطية\If Statement الجمل الشرطية\obj\Debug\If Statement الجمل الشرطية.exe
+F:\VS project\If Statement الجمل الشرطية\If Statement الجمل الشرطية\obj\Debug\If Statement الجمل الشرطية.pdb
