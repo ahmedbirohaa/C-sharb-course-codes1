@@ -1,0 +1,6 @@
+F:\VS project\Do-While  دالة التكرار الأولى\Do-While  دالة التكرار الأولى\bin\Debug\Do-While  دالة التكرار الأولى.exe.config
+F:\VS project\Do-While  دالة التكرار الأولى\Do-While  دالة التكرار الأولى\bin\Debug\Do-While  دالة التكرار الأولى.exe
+F:\VS project\Do-While  دالة التكرار الأولى\Do-While  دالة التكرار الأولى\bin\Debug\Do-While  دالة التكرار الأولى.pdb
+F:\VS project\Do-While  دالة التكرار الأولى\Do-While  دالة التكرار الأولى\obj\Debug\Do-While  دالة التكرار الأولى.csprojResolveAssemblyReference.cache
+F:\VS project\Do-While  دالة التكرار الأولى\Do-While  دالة التكرار الأولى\obj\Debug\Do-While  دالة التكرار الأولى.exe
+F:\VS project\Do-While  دالة التكرار الأولى\Do-While  دالة التكرار الأولى\obj\Debug\Do-While  دالة التكرار الأولى.pdb
