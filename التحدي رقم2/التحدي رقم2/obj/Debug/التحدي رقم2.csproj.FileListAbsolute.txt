@@ -1,0 +1,5 @@
+F:\VS project\التحدي رقم2\التحدي رقم2\bin\Debug\التحدي رقم2.exe.config
+F:\VS project\التحدي رقم2\التحدي رقم2\bin\Debug\التحدي رقم2.exe
+F:\VS project\التحدي رقم2\التحدي رقم2\bin\Debug\التحدي رقم2.pdb
+F:\VS project\التحدي رقم2\التحدي رقم2\obj\Debug\التحدي رقم2.exe
+F:\VS project\التحدي رقم2\التحدي رقم2\obj\Debug\التحدي رقم2.pdb
