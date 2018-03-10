@@ -1,0 +1,6 @@
+F:\VS project\While  دالة التكرار الثانية\While  دالة التكرار الثانية\bin\Debug\While  دالة التكرار الثانية.exe.config
+F:\VS project\While  دالة التكرار الثانية\While  دالة التكرار الثانية\bin\Debug\While  دالة التكرار الثانية.exe
+F:\VS project\While  دالة التكرار الثانية\While  دالة التكرار الثانية\bin\Debug\While  دالة التكرار الثانية.pdb
+F:\VS project\While  دالة التكرار الثانية\While  دالة التكرار الثانية\obj\Debug\While  دالة التكرار الثانية.csprojResolveAssemblyReference.cache
+F:\VS project\While  دالة التكرار الثانية\While  دالة التكرار الثانية\obj\Debug\While  دالة التكرار الثانية.exe
+F:\VS project\While  دالة التكرار الثانية\While  دالة التكرار الثانية\obj\Debug\While  دالة التكرار الثانية.pdb
