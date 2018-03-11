@@ -1,0 +1,6 @@
+F:\VS project\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\bin\Debug\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف.exe.config
+F:\VS project\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\bin\Debug\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف.exe
+F:\VS project\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\bin\Debug\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف.pdb
+F:\VS project\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\obj\Debug\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف.csprojResolveAssemblyReference.cache
+F:\VS project\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\obj\Debug\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف.exe
+F:\VS project\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف\obj\Debug\-Break Loop_Break Command أيقاف التكرار مع الأمر توقف.pdb
