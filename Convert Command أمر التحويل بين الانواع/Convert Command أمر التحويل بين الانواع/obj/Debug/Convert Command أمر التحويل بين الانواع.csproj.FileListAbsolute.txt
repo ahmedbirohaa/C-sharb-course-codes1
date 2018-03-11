@@ -1,0 +1,6 @@
+F:\VS project\Convert Command أمر التحويل بين الانواع\Convert Command أمر التحويل بين الانواع\bin\Debug\Convert Command أمر التحويل بين الانواع.exe.config
+F:\VS project\Convert Command أمر التحويل بين الانواع\Convert Command أمر التحويل بين الانواع\bin\Debug\Convert Command أمر التحويل بين الانواع.exe
+F:\VS project\Convert Command أمر التحويل بين الانواع\Convert Command أمر التحويل بين الانواع\bin\Debug\Convert Command أمر التحويل بين الانواع.pdb
+F:\VS project\Convert Command أمر التحويل بين الانواع\Convert Command أمر التحويل بين الانواع\obj\Debug\Convert Command أمر التحويل بين الانواع.csprojResolveAssemblyReference.cache
+F:\VS project\Convert Command أمر التحويل بين الانواع\Convert Command أمر التحويل بين الانواع\obj\Debug\Convert Command أمر التحويل بين الانواع.exe
+F:\VS project\Convert Command أمر التحويل بين الانواع\Convert Command أمر التحويل بين الانواع\obj\Debug\Convert Command أمر التحويل بين الانواع.pdb
