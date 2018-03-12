@@ -1,0 +1,6 @@
+F:\VS project\Enums variabbles النوع المتغير\Enums variabbles النوع المتغير\bin\Debug\Enums variabbles النوع المتغير.exe.config
+F:\VS project\Enums variabbles النوع المتغير\Enums variabbles النوع المتغير\obj\Debug\Enums variabbles النوع المتغير.csprojResolveAssemblyReference.cache
+F:\VS project\Enums variabbles النوع المتغير\Enums variabbles النوع المتغير\bin\Debug\Enums variabbles النوع المتغير.exe
+F:\VS project\Enums variabbles النوع المتغير\Enums variabbles النوع المتغير\bin\Debug\Enums variabbles النوع المتغير.pdb
+F:\VS project\Enums variabbles النوع المتغير\Enums variabbles النوع المتغير\obj\Debug\Enums variabbles النوع المتغير.exe
+F:\VS project\Enums variabbles النوع المتغير\Enums variabbles النوع المتغير\obj\Debug\Enums variabbles النوع المتغير.pdb
