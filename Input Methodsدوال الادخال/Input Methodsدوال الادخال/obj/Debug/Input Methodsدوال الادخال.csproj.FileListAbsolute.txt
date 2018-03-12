@@ -1,0 +1,6 @@
+F:\VS project\Input Methodsدوال الادخال\Input Methodsدوال الادخال\bin\Debug\Input Methodsدوال الادخال.exe.config
+F:\VS project\Input Methodsدوال الادخال\Input Methodsدوال الادخال\bin\Debug\Input Methodsدوال الادخال.exe
+F:\VS project\Input Methodsدوال الادخال\Input Methodsدوال الادخال\bin\Debug\Input Methodsدوال الادخال.pdb
+F:\VS project\Input Methodsدوال الادخال\Input Methodsدوال الادخال\obj\Debug\Input Methodsدوال الادخال.csprojResolveAssemblyReference.cache
+F:\VS project\Input Methodsدوال الادخال\Input Methodsدوال الادخال\obj\Debug\Input Methodsدوال الادخال.exe
+F:\VS project\Input Methodsدوال الادخال\Input Methodsدوال الادخال\obj\Debug\Input Methodsدوال الادخال.pdb
