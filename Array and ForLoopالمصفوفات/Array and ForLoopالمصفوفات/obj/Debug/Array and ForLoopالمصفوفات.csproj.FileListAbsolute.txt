@@ -1,0 +1,6 @@
+F:\VS project\Array and ForLoopالمصفوفات\Array and ForLoopالمصفوفات\bin\Debug\Array and ForLoopالمصفوفات.exe.config
+F:\VS project\Array and ForLoopالمصفوفات\Array and ForLoopالمصفوفات\bin\Debug\Array and ForLoopالمصفوفات.exe
+F:\VS project\Array and ForLoopالمصفوفات\Array and ForLoopالمصفوفات\bin\Debug\Array and ForLoopالمصفوفات.pdb
+F:\VS project\Array and ForLoopالمصفوفات\Array and ForLoopالمصفوفات\obj\Debug\Array and ForLoopالمصفوفات.csprojResolveAssemblyReference.cache
+F:\VS project\Array and ForLoopالمصفوفات\Array and ForLoopالمصفوفات\obj\Debug\Array and ForLoopالمصفوفات.exe
+F:\VS project\Array and ForLoopالمصفوفات\Array and ForLoopالمصفوفات\obj\Debug\Array and ForLoopالمصفوفات.pdb
