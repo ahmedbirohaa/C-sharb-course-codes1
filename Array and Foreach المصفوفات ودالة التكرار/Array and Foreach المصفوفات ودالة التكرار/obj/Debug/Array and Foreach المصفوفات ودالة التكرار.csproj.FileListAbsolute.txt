@@ -1,0 +1,6 @@
+F:\VS project\Array and Foreach المصفوفات ودالة التكرار\Array and Foreach المصفوفات ودالة التكرار\bin\Debug\Array and Foreach المصفوفات ودالة التكرار.exe.config
+F:\VS project\Array and Foreach المصفوفات ودالة التكرار\Array and Foreach المصفوفات ودالة التكرار\bin\Debug\Array and Foreach المصفوفات ودالة التكرار.exe
+F:\VS project\Array and Foreach المصفوفات ودالة التكرار\Array and Foreach المصفوفات ودالة التكرار\bin\Debug\Array and Foreach المصفوفات ودالة التكرار.pdb
+F:\VS project\Array and Foreach المصفوفات ودالة التكرار\Array and Foreach المصفوفات ودالة التكرار\obj\Debug\Array and Foreach المصفوفات ودالة التكرار.csprojResolveAssemblyReference.cache
+F:\VS project\Array and Foreach المصفوفات ودالة التكرار\Array and Foreach المصفوفات ودالة التكرار\obj\Debug\Array and Foreach المصفوفات ودالة التكرار.exe
+F:\VS project\Array and Foreach المصفوفات ودالة التكرار\Array and Foreach المصفوفات ودالة التكرار\obj\Debug\Array and Foreach المصفوفات ودالة التكرار.pdb
