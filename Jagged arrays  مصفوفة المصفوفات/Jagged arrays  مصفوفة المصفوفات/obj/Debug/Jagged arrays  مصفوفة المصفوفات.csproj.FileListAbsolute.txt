@@ -1,0 +1,6 @@
+F:\VS project\Jagged arrays  مصفوفة المصفوفات\Jagged arrays  مصفوفة المصفوفات\bin\Debug\Jagged arrays  مصفوفة المصفوفات.exe.config
+F:\VS project\Jagged arrays  مصفوفة المصفوفات\Jagged arrays  مصفوفة المصفوفات\bin\Debug\Jagged arrays  مصفوفة المصفوفات.exe
+F:\VS project\Jagged arrays  مصفوفة المصفوفات\Jagged arrays  مصفوفة المصفوفات\bin\Debug\Jagged arrays  مصفوفة المصفوفات.pdb
+F:\VS project\Jagged arrays  مصفوفة المصفوفات\Jagged arrays  مصفوفة المصفوفات\obj\Debug\Jagged arrays  مصفوفة المصفوفات.csprojResolveAssemblyReference.cache
+F:\VS project\Jagged arrays  مصفوفة المصفوفات\Jagged arrays  مصفوفة المصفوفات\obj\Debug\Jagged arrays  مصفوفة المصفوفات.exe
+F:\VS project\Jagged arrays  مصفوفة المصفوفات\Jagged arrays  مصفوفة المصفوفات\obj\Debug\Jagged arrays  مصفوفة المصفوفات.pdb
