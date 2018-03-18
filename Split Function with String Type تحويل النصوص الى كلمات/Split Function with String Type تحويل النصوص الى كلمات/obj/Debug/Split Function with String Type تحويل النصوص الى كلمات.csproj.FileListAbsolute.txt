@@ -1,0 +1,6 @@
+F:\VS project\Split Function with String Type تحويل النصوص الى كلمات\Split Function with String Type تحويل النصوص الى كلمات\bin\Debug\Split Function with String Type تحويل النصوص الى كلمات.exe.config
+F:\VS project\Split Function with String Type تحويل النصوص الى كلمات\Split Function with String Type تحويل النصوص الى كلمات\bin\Debug\Split Function with String Type تحويل النصوص الى كلمات.exe
+F:\VS project\Split Function with String Type تحويل النصوص الى كلمات\Split Function with String Type تحويل النصوص الى كلمات\bin\Debug\Split Function with String Type تحويل النصوص الى كلمات.pdb
+F:\VS project\Split Function with String Type تحويل النصوص الى كلمات\Split Function with String Type تحويل النصوص الى كلمات\obj\Debug\Split Function with String Type تحويل النصوص الى كلمات.csprojResolveAssemblyReference.cache
+F:\VS project\Split Function with String Type تحويل النصوص الى كلمات\Split Function with String Type تحويل النصوص الى كلمات\obj\Debug\Split Function with String Type تحويل النصوص الى كلمات.exe
+F:\VS project\Split Function with String Type تحويل النصوص الى كلمات\Split Function with String Type تحويل النصوص الى كلمات\obj\Debug\Split Function with String Type تحويل النصوص الى كلمات.pdb
