@@ -1,0 +1,5 @@
+F:\VS project\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\bin\Debug\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط.exe.config
+F:\VS project\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\bin\Debug\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط.exe
+F:\VS project\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\bin\Debug\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط.pdb
+F:\VS project\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\obj\Debug\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط.exe
+F:\VS project\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط\obj\Debug\ToUpper Vs ToLower Trim Functions دوال التحكم بالخط.pdb
