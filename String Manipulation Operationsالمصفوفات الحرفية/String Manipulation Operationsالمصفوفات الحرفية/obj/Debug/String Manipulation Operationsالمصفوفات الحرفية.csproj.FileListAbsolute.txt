@@ -1,0 +1,6 @@
+F:\VS project\String Manipulation Operationsالمصفوفات الحرفية\String Manipulation Operationsالمصفوفات الحرفية\bin\Debug\String Manipulation Operationsالمصفوفات الحرفية.exe.config
+F:\VS project\String Manipulation Operationsالمصفوفات الحرفية\String Manipulation Operationsالمصفوفات الحرفية\bin\Debug\String Manipulation Operationsالمصفوفات الحرفية.exe
+F:\VS project\String Manipulation Operationsالمصفوفات الحرفية\String Manipulation Operationsالمصفوفات الحرفية\bin\Debug\String Manipulation Operationsالمصفوفات الحرفية.pdb
+F:\VS project\String Manipulation Operationsالمصفوفات الحرفية\String Manipulation Operationsالمصفوفات الحرفية\obj\Debug\String Manipulation Operationsالمصفوفات الحرفية.exe
+F:\VS project\String Manipulation Operationsالمصفوفات الحرفية\String Manipulation Operationsالمصفوفات الحرفية\obj\Debug\String Manipulation Operationsالمصفوفات الحرفية.pdb
+F:\VS project\String Manipulation Operationsالمصفوفات الحرفية\String Manipulation Operationsالمصفوفات الحرفية\obj\Debug\String Manipulation Operationsالمصفوفات الحرفية.csprojResolveAssemblyReference.cache
