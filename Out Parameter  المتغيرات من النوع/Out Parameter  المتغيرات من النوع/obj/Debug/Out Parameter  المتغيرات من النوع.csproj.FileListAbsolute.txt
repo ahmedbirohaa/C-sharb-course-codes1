@@ -1,0 +1,6 @@
+F:\VS project\Out Parameter  المتغيرات من النوع\Out Parameter  المتغيرات من النوع\bin\Debug\Out Parameter  المتغيرات من النوع.exe.config
+F:\VS project\Out Parameter  المتغيرات من النوع\Out Parameter  المتغيرات من النوع\bin\Debug\Out Parameter  المتغيرات من النوع.exe
+F:\VS project\Out Parameter  المتغيرات من النوع\Out Parameter  المتغيرات من النوع\bin\Debug\Out Parameter  المتغيرات من النوع.pdb
+F:\VS project\Out Parameter  المتغيرات من النوع\Out Parameter  المتغيرات من النوع\obj\Debug\Out Parameter  المتغيرات من النوع.csprojResolveAssemblyReference.cache
+F:\VS project\Out Parameter  المتغيرات من النوع\Out Parameter  المتغيرات من النوع\obj\Debug\Out Parameter  المتغيرات من النوع.exe
+F:\VS project\Out Parameter  المتغيرات من النوع\Out Parameter  المتغيرات من النوع\obj\Debug\Out Parameter  المتغيرات من النوع.pdb
