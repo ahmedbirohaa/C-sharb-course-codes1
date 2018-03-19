@@ -1,0 +1,5 @@
+F:\VS project\Variable Scope in Structures مدى المتغيرات\Variable Scope in Structures مدى المتغيرات\bin\Debug\Variable Scope in Structures مدى المتغيرات.exe.config
+F:\VS project\Variable Scope in Structures مدى المتغيرات\Variable Scope in Structures مدى المتغيرات\bin\Debug\Variable Scope in Structures مدى المتغيرات.exe
+F:\VS project\Variable Scope in Structures مدى المتغيرات\Variable Scope in Structures مدى المتغيرات\bin\Debug\Variable Scope in Structures مدى المتغيرات.pdb
+F:\VS project\Variable Scope in Structures مدى المتغيرات\Variable Scope in Structures مدى المتغيرات\obj\Debug\Variable Scope in Structures مدى المتغيرات.exe
+F:\VS project\Variable Scope in Structures مدى المتغيرات\Variable Scope in Structures مدى المتغيرات\obj\Debug\Variable Scope in Structures مدى المتغيرات.pdb
