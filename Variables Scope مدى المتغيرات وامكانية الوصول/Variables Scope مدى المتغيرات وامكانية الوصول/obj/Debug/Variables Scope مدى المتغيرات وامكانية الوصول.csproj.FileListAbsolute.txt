@@ -1,0 +1,6 @@
+F:\VS project\Variables Scope مدى المتغيرات وامكانية الوصول\Variables Scope مدى المتغيرات وامكانية الوصول\bin\Debug\Variables Scope مدى المتغيرات وامكانية الوصول.exe.config
+F:\VS project\Variables Scope مدى المتغيرات وامكانية الوصول\Variables Scope مدى المتغيرات وامكانية الوصول\bin\Debug\Variables Scope مدى المتغيرات وامكانية الوصول.exe
+F:\VS project\Variables Scope مدى المتغيرات وامكانية الوصول\Variables Scope مدى المتغيرات وامكانية الوصول\bin\Debug\Variables Scope مدى المتغيرات وامكانية الوصول.pdb
+F:\VS project\Variables Scope مدى المتغيرات وامكانية الوصول\Variables Scope مدى المتغيرات وامكانية الوصول\obj\Debug\Variables Scope مدى المتغيرات وامكانية الوصول.csprojResolveAssemblyReference.cache
+F:\VS project\Variables Scope مدى المتغيرات وامكانية الوصول\Variables Scope مدى المتغيرات وامكانية الوصول\obj\Debug\Variables Scope مدى المتغيرات وامكانية الوصول.exe
+F:\VS project\Variables Scope مدى المتغيرات وامكانية الوصول\Variables Scope مدى المتغيرات وامكانية الوصول\obj\Debug\Variables Scope مدى المتغيرات وامكانية الوصول.pdb
