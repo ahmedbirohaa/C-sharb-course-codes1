@@ -1,0 +1,5 @@
+F:\VS project\The Main Method دالة الرئيسية للبرنامج\The Main Method دالة الرئيسية للبرنامج\bin\Debug\The Main Method دالة الرئيسية للبرنامج.exe.config
+F:\VS project\The Main Method دالة الرئيسية للبرنامج\The Main Method دالة الرئيسية للبرنامج\bin\Debug\The Main Method دالة الرئيسية للبرنامج.exe
+F:\VS project\The Main Method دالة الرئيسية للبرنامج\The Main Method دالة الرئيسية للبرنامج\bin\Debug\The Main Method دالة الرئيسية للبرنامج.pdb
+F:\VS project\The Main Method دالة الرئيسية للبرنامج\The Main Method دالة الرئيسية للبرنامج\obj\Debug\The Main Method دالة الرئيسية للبرنامج.exe
+F:\VS project\The Main Method دالة الرئيسية للبرنامج\The Main Method دالة الرئيسية للبرنامج\obj\Debug\The Main Method دالة الرئيسية للبرنامج.pdb
