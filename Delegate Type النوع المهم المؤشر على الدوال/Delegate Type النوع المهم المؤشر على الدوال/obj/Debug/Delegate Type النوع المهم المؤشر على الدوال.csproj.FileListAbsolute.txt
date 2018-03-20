@@ -1,0 +1,6 @@
+F:\VS project\Delegate Type النوع المهم المؤشر على الدوال\Delegate Type النوع المهم المؤشر على الدوال\bin\Debug\Delegate Type النوع المهم المؤشر على الدوال.exe.config
+F:\VS project\Delegate Type النوع المهم المؤشر على الدوال\Delegate Type النوع المهم المؤشر على الدوال\bin\Debug\Delegate Type النوع المهم المؤشر على الدوال.exe
+F:\VS project\Delegate Type النوع المهم المؤشر على الدوال\Delegate Type النوع المهم المؤشر على الدوال\bin\Debug\Delegate Type النوع المهم المؤشر على الدوال.pdb
+F:\VS project\Delegate Type النوع المهم المؤشر على الدوال\Delegate Type النوع المهم المؤشر على الدوال\obj\Debug\Delegate Type النوع المهم المؤشر على الدوال.csprojResolveAssemblyReference.cache
+F:\VS project\Delegate Type النوع المهم المؤشر على الدوال\Delegate Type النوع المهم المؤشر على الدوال\obj\Debug\Delegate Type النوع المهم المؤشر على الدوال.exe
+F:\VS project\Delegate Type النوع المهم المؤشر على الدوال\Delegate Type النوع المهم المؤشر على الدوال\obj\Debug\Delegate Type النوع المهم المؤشر على الدوال.pdb
