@@ -1,0 +1,6 @@
+F:\VS project\Struct Function دوال الهيكل البرمجي\Struct Function دوال الهيكل البرمجي\bin\Debug\Struct Function دوال الهيكل البرمجي.exe.config
+F:\VS project\Struct Function دوال الهيكل البرمجي\Struct Function دوال الهيكل البرمجي\bin\Debug\Struct Function دوال الهيكل البرمجي.exe
+F:\VS project\Struct Function دوال الهيكل البرمجي\Struct Function دوال الهيكل البرمجي\bin\Debug\Struct Function دوال الهيكل البرمجي.pdb
+F:\VS project\Struct Function دوال الهيكل البرمجي\Struct Function دوال الهيكل البرمجي\obj\Debug\Struct Function دوال الهيكل البرمجي.csprojResolveAssemblyReference.cache
+F:\VS project\Struct Function دوال الهيكل البرمجي\Struct Function دوال الهيكل البرمجي\obj\Debug\Struct Function دوال الهيكل البرمجي.exe
+F:\VS project\Struct Function دوال الهيكل البرمجي\Struct Function دوال الهيكل البرمجي\obj\Debug\Struct Function دوال الهيكل البرمجي.pdb
