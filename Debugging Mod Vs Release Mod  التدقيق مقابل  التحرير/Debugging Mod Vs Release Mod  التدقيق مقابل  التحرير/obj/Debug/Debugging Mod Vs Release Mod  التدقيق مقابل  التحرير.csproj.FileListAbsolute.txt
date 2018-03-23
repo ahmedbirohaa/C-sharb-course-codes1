@@ -1,0 +1,6 @@
+F:\VS project\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\bin\Debug\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير.exe.config
+F:\VS project\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\bin\Debug\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير.exe
+F:\VS project\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\bin\Debug\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير.pdb
+F:\VS project\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\obj\Debug\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير.csprojResolveAssemblyReference.cache
+F:\VS project\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\obj\Debug\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير.exe
+F:\VS project\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير\obj\Debug\Debugging Mod Vs Release Mod  التدقيق مقابل  التحرير.pdb
