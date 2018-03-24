@@ -1,0 +1,6 @@
+F:\VS project\Lambda Expression التعبير البرمجي الليمدا\Lambda Expression التعبير البرمجي الليمدا\bin\Debug\Lambda Expression التعبير البرمجي الليمدا.exe.config
+F:\VS project\Lambda Expression التعبير البرمجي الليمدا\Lambda Expression التعبير البرمجي الليمدا\bin\Debug\Lambda Expression التعبير البرمجي الليمدا.exe
+F:\VS project\Lambda Expression التعبير البرمجي الليمدا\Lambda Expression التعبير البرمجي الليمدا\bin\Debug\Lambda Expression التعبير البرمجي الليمدا.pdb
+F:\VS project\Lambda Expression التعبير البرمجي الليمدا\Lambda Expression التعبير البرمجي الليمدا\obj\Debug\Lambda Expression التعبير البرمجي الليمدا.csprojResolveAssemblyReference.cache
+F:\VS project\Lambda Expression التعبير البرمجي الليمدا\Lambda Expression التعبير البرمجي الليمدا\obj\Debug\Lambda Expression التعبير البرمجي الليمدا.exe
+F:\VS project\Lambda Expression التعبير البرمجي الليمدا\Lambda Expression التعبير البرمجي الليمدا\obj\Debug\Lambda Expression التعبير البرمجي الليمدا.pdb
