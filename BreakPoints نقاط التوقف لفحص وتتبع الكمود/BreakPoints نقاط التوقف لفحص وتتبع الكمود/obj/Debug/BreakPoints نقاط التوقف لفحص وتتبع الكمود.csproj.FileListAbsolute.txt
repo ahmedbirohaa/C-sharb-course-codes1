@@ -1,0 +1,6 @@
+F:\VS project\BreakPoints نقاط التوقف لفحص وتتبع الكمود\BreakPoints نقاط التوقف لفحص وتتبع الكمود\bin\Debug\BreakPoints نقاط التوقف لفحص وتتبع الكمود.exe.config
+F:\VS project\BreakPoints نقاط التوقف لفحص وتتبع الكمود\BreakPoints نقاط التوقف لفحص وتتبع الكمود\bin\Debug\BreakPoints نقاط التوقف لفحص وتتبع الكمود.exe
+F:\VS project\BreakPoints نقاط التوقف لفحص وتتبع الكمود\BreakPoints نقاط التوقف لفحص وتتبع الكمود\bin\Debug\BreakPoints نقاط التوقف لفحص وتتبع الكمود.pdb
+F:\VS project\BreakPoints نقاط التوقف لفحص وتتبع الكمود\BreakPoints نقاط التوقف لفحص وتتبع الكمود\obj\Debug\BreakPoints نقاط التوقف لفحص وتتبع الكمود.csprojResolveAssemblyReference.cache
+F:\VS project\BreakPoints نقاط التوقف لفحص وتتبع الكمود\BreakPoints نقاط التوقف لفحص وتتبع الكمود\obj\Debug\BreakPoints نقاط التوقف لفحص وتتبع الكمود.exe
+F:\VS project\BreakPoints نقاط التوقف لفحص وتتبع الكمود\BreakPoints نقاط التوقف لفحص وتتبع الكمود\obj\Debug\BreakPoints نقاط التوقف لفحص وتتبع الكمود.pdb
