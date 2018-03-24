@@ -1,0 +1,6 @@
+F:\VS project\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\bin\Debug\Assertion Methods دوال فحص القيم وأيقاف التنفيذ.exe.config
+F:\VS project\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\bin\Debug\Assertion Methods دوال فحص القيم وأيقاف التنفيذ.exe
+F:\VS project\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\bin\Debug\Assertion Methods دوال فحص القيم وأيقاف التنفيذ.pdb
+F:\VS project\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\obj\Debug\Assertion Methods دوال فحص القيم وأيقاف التنفيذ.csprojResolveAssemblyReference.cache
+F:\VS project\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\obj\Debug\Assertion Methods دوال فحص القيم وأيقاف التنفيذ.exe
+F:\VS project\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\Assertion Methods دوال فحص القيم وأيقاف التنفيذ\obj\Debug\Assertion Methods دوال فحص القيم وأيقاف التنفيذ.pdb
