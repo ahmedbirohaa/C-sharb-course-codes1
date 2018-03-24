@@ -1,0 +1,6 @@
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\bin\Debug\Using Namespaces in Practical  فضاءات الأسماء.exe.config
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\bin\Debug\Using Namespaces in Practical  فضاءات الأسماء.exe
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\bin\Debug\Using Namespaces in Practical  فضاءات الأسماء.pdb
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\obj\Debug\Using Namespaces in Practical  فضاءات الأسماء.csprojResolveAssemblyReference.cache
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\obj\Debug\Using Namespaces in Practical  فضاءات الأسماء.exe
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\obj\Debug\Using Namespaces in Practical  فضاءات الأسماء.pdb
