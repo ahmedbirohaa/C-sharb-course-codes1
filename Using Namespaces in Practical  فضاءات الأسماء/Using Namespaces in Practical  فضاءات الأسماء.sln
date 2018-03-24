@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Namespaces in Practical  فضاءات الأسماء", "Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء.csproj", "{8B892812-27EA-4868-A748-86864D73A394}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oldbrothers", "oldbrothers\oldbrothers.csproj", "{8E60A898-220D-4E9C-B197-03EA6B451736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yongbrothers", "yongbrothers\yongbrothers.csproj", "{0F4B4CF9-B69A-4E4D-996C-BD88A9BFF178}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8B892812-27EA-4868-A748-86864D73A394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B892812-27EA-4868-A748-86864D73A394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B892812-27EA-4868-A748-86864D73A394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E60A898-220D-4E9C-B197-03EA6B451736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E60A898-220D-4E9C-B197-03EA6B451736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E60A898-220D-4E9C-B197-03EA6B451736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E60A898-220D-4E9C-B197-03EA6B451736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4B4CF9-B69A-4E4D-996C-BD88A9BFF178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4B4CF9-B69A-4E4D-996C-BD88A9BFF178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4B4CF9-B69A-4E4D-996C-BD88A9BFF178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4B4CF9-B69A-4E4D-996C-BD88A9BFF178}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

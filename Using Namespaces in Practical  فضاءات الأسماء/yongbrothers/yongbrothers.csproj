@@ -4,17 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8B892812-27EA-4868-A748-86864D73A394}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{0F4B4CF9-B69A-4E4D-996C-BD88A9BFF178}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Using_Namespaces_in_Practical__فضاءات_الأسماء</RootNamespace>
-    <AssemblyName>Using Namespaces in Practical  فضاءات الأسماء</AssemblyName>
+    <RootNamespace>yongbrothers</RootNamespace>
+    <AssemblyName>yongbrothers</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,21 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="brothers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\oldbrothers\oldbrothers.csproj">
-      <Project>{8e60a898-220d-4e9c-b197-03ea6b451736}</Project>
-      <Name>oldbrothers</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\yongbrothers\yongbrothers.csproj">
-      <Project>{0f4b4cf9-b69a-4e4d-996c-bd88a9bff178}</Project>
-      <Name>yongbrothers</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

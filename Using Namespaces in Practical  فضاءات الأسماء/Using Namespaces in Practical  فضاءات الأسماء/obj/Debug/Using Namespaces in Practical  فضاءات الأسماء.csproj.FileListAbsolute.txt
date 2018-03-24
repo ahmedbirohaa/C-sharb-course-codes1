@@ -4,3 +4,7 @@ F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using N
 F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\obj\Debug\Using Namespaces in Practical  فضاءات الأسماء.csprojResolveAssemblyReference.cache
 F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\obj\Debug\Using Namespaces in Practical  فضاءات الأسماء.exe
 F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\obj\Debug\Using Namespaces in Practical  فضاءات الأسماء.pdb
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\bin\Debug\oldbrothers.dll
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\bin\Debug\yongbrothers.dll
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\bin\Debug\oldbrothers.pdb
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\Using Namespaces in Practical  فضاءات الأسماء\bin\Debug\yongbrothers.pdb

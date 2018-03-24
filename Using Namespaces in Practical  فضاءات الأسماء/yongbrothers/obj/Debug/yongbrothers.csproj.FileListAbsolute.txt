@@ -1,0 +1,5 @@
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\yongbrothers\bin\Debug\yongbrothers.dll
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\yongbrothers\bin\Debug\yongbrothers.pdb
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\yongbrothers\obj\Debug\yongbrothers.csprojResolveAssemblyReference.cache
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\yongbrothers\obj\Debug\yongbrothers.dll
+F:\VS project\Using Namespaces in Practical  فضاءات الأسماء\yongbrothers\obj\Debug\yongbrothers.pdb
