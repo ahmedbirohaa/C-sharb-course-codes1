@@ -1,0 +1,6 @@
+F:\VS project\Params Keyword  الكلمة المحجوزة متغير\Params Keyword  الكلمة المحجوزة متغير\bin\Debug\Params Keyword  الكلمة المحجوزة متغير.exe.config
+F:\VS project\Params Keyword  الكلمة المحجوزة متغير\Params Keyword  الكلمة المحجوزة متغير\bin\Debug\Params Keyword  الكلمة المحجوزة متغير.exe
+F:\VS project\Params Keyword  الكلمة المحجوزة متغير\Params Keyword  الكلمة المحجوزة متغير\bin\Debug\Params Keyword  الكلمة المحجوزة متغير.pdb
+F:\VS project\Params Keyword  الكلمة المحجوزة متغير\Params Keyword  الكلمة المحجوزة متغير\obj\Debug\Params Keyword  الكلمة المحجوزة متغير.csprojResolveAssemblyReference.cache
+F:\VS project\Params Keyword  الكلمة المحجوزة متغير\Params Keyword  الكلمة المحجوزة متغير\obj\Debug\Params Keyword  الكلمة المحجوزة متغير.exe
+F:\VS project\Params Keyword  الكلمة المحجوزة متغير\Params Keyword  الكلمة المحجوزة متغير\obj\Debug\Params Keyword  الكلمة المحجوزة متغير.pdb
