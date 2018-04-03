@@ -1,0 +1,6 @@
+F:\VS project\Recursive Function دالة الأستدعاء الذاتي\Recursive Function دالة الأستدعاء الذاتي\bin\Debug\Recursive Function دالة الأستدعاء الذاتي.exe.config
+F:\VS project\Recursive Function دالة الأستدعاء الذاتي\Recursive Function دالة الأستدعاء الذاتي\bin\Debug\Recursive Function دالة الأستدعاء الذاتي.exe
+F:\VS project\Recursive Function دالة الأستدعاء الذاتي\Recursive Function دالة الأستدعاء الذاتي\bin\Debug\Recursive Function دالة الأستدعاء الذاتي.pdb
+F:\VS project\Recursive Function دالة الأستدعاء الذاتي\Recursive Function دالة الأستدعاء الذاتي\obj\Debug\Recursive Function دالة الأستدعاء الذاتي.csprojResolveAssemblyReference.cache
+F:\VS project\Recursive Function دالة الأستدعاء الذاتي\Recursive Function دالة الأستدعاء الذاتي\obj\Debug\Recursive Function دالة الأستدعاء الذاتي.exe
+F:\VS project\Recursive Function دالة الأستدعاء الذاتي\Recursive Function دالة الأستدعاء الذاتي\obj\Debug\Recursive Function دالة الأستدعاء الذاتي.pdb
